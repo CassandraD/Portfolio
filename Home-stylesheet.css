@@ -1,0 +1,63 @@
+@import url("Birds_of_Paradise_╕_PERSONAL_USE_ONLY/stylesheet.css");
+@import url("Orial/stylesheet.css");
+
+body
+{
+	background-color: black;
+	background-image: url(Background.png);
+	font-family: "Birds of Paradise ╕ PERSONAL USE ONLY";
+	background-attatchment: fixed;
+	right: 300px;
+	left: 300px;
+}
+#table_class
+{
+	font: Birds of Paradise;
+	font-size: 40px;
+	font-family: "Birds of Paradise";
+	align: right;
+}
+#name
+{
+	font: Orial;
+	color: blue;
+}
+#nav-link-name
+{
+	font: Birds of Paradise;
+	font-size: 40px;
+	font-family: "Birds of Paradise";
+	align: right;
+}
+a.navig-link 
+{
+    text-decoration: none;
+    color: white;
+	font-family:"Birds of Paradise";
+	font-size: 40px;
+}
+a.navig-link-name 
+{
+    text-decoration: none;
+    color: blue;
+	font-family:"Birds of Paradise";
+	font-size: 60px;
+}
+a:hover.navig-link 
+{
+	color: blue;
+	text-align: right;
+}
+td.name 
+{
+	text-decoration: none;
+	color: white;
+	font: Orial;
+	font-family: Orial;
+	font-size: 110px;
+}
+a:hover.navig-link-name 
+{
+	color: white;
+	text-align: right;
+}
